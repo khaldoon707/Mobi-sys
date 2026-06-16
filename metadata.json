@@ -1,0 +1,6 @@
+{
+  "name": "Simple ERP",
+  "description": "A lightweight ERP system to manage Customers, Inventory, Orders, Accounting, and PO fulfillment with real-time reporting, barcode scanning support, and CSV/PDF export capabilities.",
+  "requestFramePermissions": ["android.permission.CAMERA"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
